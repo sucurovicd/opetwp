@@ -1,0 +1,3 @@
+Pluginovi
+	-Woocommerce
+	-Transposh - prevod
